@@ -1,15 +1,47 @@
-# Reliant
-===========================================================
-
-Batch file menu
-
-Made to make people who use windows machines life's easier.
-
-2016 - 2019
-
-Good luck.
-
-1205
+# Project-R
+================
+===============
+==============
+=============
+============
+===========
+==========
+=========
+========
+=======
+======
+=====
 ====
-===========================================================
+===
+==
+=
+
+a Batch administrative menu
+
+A simplified and fully customizable administration tool
+
+2016-currently
+
+Credit to 1205 as the original file, reliant. may the original project rest in piece
+
+Live
+
+
+N1g1-1tm4r3
+=
+==
+===
+====
+=====
+======
+=======
+========
+=========
+==========
+===========
+============
+=============
+==============
+===============
+================
 
